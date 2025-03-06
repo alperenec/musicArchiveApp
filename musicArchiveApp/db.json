@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "id": "94dc",
+      "name": "Kristina Heidenreich"
+    },
+    {
+      "id": "6301",
+      "name": "Angelina Zulauf"
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Eskişehir",
+      "id": "15"
+    },
+    {
+      "userId": 3,
+      "title": "Oriental Rubber Bacon",
+      "id": "21"
+    },
+    {
+      "userId": 3,
+      "title": "Modern Bronze Chips",
+      "id": "22"
+    },
+    {
+      "userId": 3,
+      "title": "Small Plastic Shoes",
+      "id": "23"
+    },
+    {
+      "userId": 3,
+      "title": "Practical Granite Shirt",
+      "id": "24"
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Rubber Keyboard",
+      "id": "25"
+    },
+    {
+      "userId": 3,
+      "title": "Intelligent Plastic Bacon",
+      "id": "26"
+    },
+    {
+      "userId": 3,
+      "title": "Licensed Wooden Pants",
+      "id": "27"
+    },
+    {
+      "userId": 3,
+      "title": "Oriental Frozen Soap",
+      "id": "28"
+    },
+    {
+      "id": "ab8e",
+      "userId": null,
+      "title": "Recycled Marble Pizza"
+    },
+    {
+      "id": "412f",
+      "userId": null,
+      "title": "Ergonomic Marble Table"
+    },
+    {
+      "id": "75a3",
+      "userId": null,
+      "title": "Fresh Metal Chicken"
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=240",
+      "id": "2"
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13847",
+      "id": "3"
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=55640",
+      "id": "4"
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42637",
+      "id": "6"
+    },
+    {
+      "id": "ff44",
+      "albumId": "ab8e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2028190536022594"
+    },
+    {
+      "id": "da95",
+      "albumId": "ab8e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5911023256755112"
+    },
+    {
+      "id": "e916",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=249367519856146"
+    },
+    {
+      "id": "3d22",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5231453165033219"
+    },
+    {
+      "id": "f6b1",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4554003421160408"
+    },
+    {
+      "id": "7246",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1587037336663353"
+    },
+    {
+      "id": "2a91",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8882005965817004"
+    },
+    {
+      "id": "8998",
+      "albumId": "ab8e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=3155785779577854"
+    },
+    {
+      "id": "ead4",
+      "albumId": "412f",
+      "url": "https://loremflickr.com/150/150/abstract?lock=874069448738508"
+    }
+  ]
+}
